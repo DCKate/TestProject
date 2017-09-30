@@ -1,0 +1,13 @@
+input data would look like
+```
+{
+"source": "from bucket",
+"target": "to bucket",
+"resources": [ 
+"data a",
+....
+],
+"filename": "",
+"hook": "http notify"
+}
+```
